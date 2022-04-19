@@ -13,6 +13,8 @@ namespace EmployeePayrollMVC.Controllers
         {
             this.EmployeeBL= EmployeeBL;
         }
+
+        // Showing the list of Employee
         public IActionResult Index()
         {
             List<Employee> lstEmployee = new List<Employee>();
@@ -20,6 +22,8 @@ namespace EmployeePayrollMVC.Controllers
 
             return View(lstEmployee);
         }
+
+        //Adding New Employee
 
         [HttpGet]
         public IActionResult Create()
@@ -38,8 +42,10 @@ namespace EmployeePayrollMVC.Controllers
             return View(employee);
         }
 
+        //Updating the Employee
+
         [HttpGet]
-        public IActionResult Edit(int? id)
+        public IActionResult Edit(int? id) 
         {
             if (id == null)
             {
@@ -69,6 +75,8 @@ namespace EmployeePayrollMVC.Controllers
             return View(employee);
         }
 
+        //Showing Detail of Employee
+
         [HttpGet]
         public IActionResult Details(int? id)
         {
@@ -84,6 +92,8 @@ namespace EmployeePayrollMVC.Controllers
             }
             return View(employee);
         }
+
+        //Deleting Employee 
 
         [HttpGet]
         public IActionResult Delete(int? id)
