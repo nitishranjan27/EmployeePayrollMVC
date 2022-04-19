@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
+//Interface
 namespace Buisness_Layer.Interface
 {
     public interface IEmployeeBL

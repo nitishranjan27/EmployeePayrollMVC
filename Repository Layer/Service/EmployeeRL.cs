@@ -17,7 +17,7 @@ namespace Repository_Layer.Service
             this.configuration= configuration;
         }
 
-        //To Add new employee record      
+        //To Add new Employee record      
         public string AddEmployee(Employee employee)
         {
             using (SqlConnection con = new SqlConnection(configuration["ConnectionString:EmployeePayrollMVC"]))
@@ -47,7 +47,7 @@ namespace Repository_Layer.Service
             }
         }
 
-        //To View all employees details      
+        //To View all Employees details      
         public IEnumerable<Employee> GetAllEmployees()
         {
             List<Employee> lstemployee = new List<Employee>();
@@ -80,7 +80,7 @@ namespace Repository_Layer.Service
             return lstemployee;
         }
 
-        //To Update the records of a particluar employee    
+        //To Update the records of a particluar Employee    
         public string UpdateEmployee(Employee employee)
         {
             using (SqlConnection con = new SqlConnection(configuration["ConnectionString:EmployeePayrollMVC"]))
@@ -140,7 +140,7 @@ namespace Repository_Layer.Service
             return employee;
         }
 
-        //To Delete the record on a particular employee    
+        //To Delete the record on a particular Employee    
         public string DeleteEmployee(int? id)
         {
 

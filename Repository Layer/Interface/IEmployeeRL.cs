@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
+//Interface
 namespace Repository_Layer.Interface
 {
     public interface IEmployeeRL
