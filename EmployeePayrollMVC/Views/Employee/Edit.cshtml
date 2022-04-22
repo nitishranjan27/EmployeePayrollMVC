@@ -4,14 +4,16 @@
     ViewData["Title"] = "Edit";
 }
 
-<h1>Edit</h1>
+@*<h1>Edit</h1>
 
-<h4>Employee</h4>
+<h4>Employee</h4>*@
+
 <hr />
-<div class="row">
-    <div class="col-md-4">
+<div class="form-content">
+    <div class="form">
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-head">Edit Employee</div>
             <div class="form-group">
                 <label asp-for="EmployeeId" class="control-label"></label>
                 <input asp-for="EmployeeId" class="form-control" />
@@ -22,11 +24,35 @@
                 <input asp-for="Name" class="form-control" />
                 <span asp-validation-for="Name" class="text-danger"></span>
             </div>
-            <div class="form-group">
+            @*<div class="form-group">
                 <label asp-for="profileImage" class="control-label"></label>
                 <input asp-for="profileImage" class="form-control" />
                 <span asp-validation-for="profileImage" class="text-danger"></span>
+            </div>*@
+
+            <div class="form-group">
+                <label class="label text" for="profile">Profile Image</label>
+
+                <div class="profile-radio-content">
+                    <label asp-for="profileImage" class="control-label">
+                        <input type="radio" asp-for="profileImage" value="../assets/Profile-images/Ellipse -3.png">
+                        <img class="profile" id='imagel' src="../assets/Profile-images/Ellipse -3.png">
+                    </label>
+                    <label asp-for="profileImage" class="control-label">
+                        <input type="radio" asp-for="profileImage" value="../assets/Profile-images/Ellipse -1.png">
+                        <img class="profile" id='image2' src="../assets/Profile-images/Ellipse -1.png">
+                    </label>
+                    <label asp-for="profileImage" class="control-label">
+                        <input type="radio" asp-for="profileImage" value="../assets/Profile-images/Ellipse -8.png" >
+                        <img class="profile" id='image3' src="../assets/Profile-images/Ellipse -8.png">
+                    </label>
+                    <label asp-for="profileImage" class="control-label">
+                        <input type="radio" asp-for="profileImage" value="../assets/Profile-images/Ellipse -7.png" >
+                        <img class="profile" id='image4' src="../assets/Profile-images/Ellipse -7.png">
+                    </label>
+                </div>
             </div>
+
             <div class="form-group">
                 <label asp-for="Gender" class="control-label"></label>
                 <input asp-for="Gender" class="form-control" />
@@ -52,16 +78,17 @@
                 <input asp-for="Note" class="form-control" />
                 <span asp-validation-for="Note" class="text-danger"></span>
             </div>
-            <div class="form-group">
+            <div class="form-group button-content">
                 <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-primary">Back to List</a>
             </div>
         </form>
     </div>
 </div>
 
-<div>
+@*<div>
     <a asp-action="Index">Back to List</a>
-</div>
+</div>*@
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}

@@ -8,53 +8,14 @@ C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\EmployeePayrollMVC.pdb
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\EmployeePayrollMVC.Views.dll
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\EmployeePayrollMVC.Views.pdb
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Buisness Layer.dll
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Common Layer.dll
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Repository Layer.dll
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Buisness Layer.pdb
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Common Layer.pdb
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Repository Layer.pdb
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.csproj.AssemblyReference.cache
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.AssemblyInfoInputs.cache
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.AssemblyInfo.cs
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.csproj.CoreCompileInputs.cache
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.RazorAssemblyInfo.cache
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.RazorAssemblyInfo.cs
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\staticwebassets\EmployeePayrollMVC.StaticWebAssets.Manifest.cache
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.TagHelpers.input.cache
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.TagHelpers.output.cache
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.RazorCoreGenerate.cache
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.RazorTargetAssemblyInfo.cache
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.RazorTargetAssemblyInfo.cs
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.Views.pdb
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.csproj.CopyComplete
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.dll
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.pdb
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.genruntimeconfig.cache
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -70,6 +31,8 @@ C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
@@ -122,8 +85,45 @@ C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Buisness Layer.dll
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Common Layer.dll
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Repository Layer.dll
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Buisness Layer.pdb
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Common Layer.pdb
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\bin\Debug\netcoreapp3.1\Repository Layer.pdb
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.csproj.AssemblyReference.cache
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.AssemblyInfoInputs.cache
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.AssemblyInfo.cs
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.csproj.CoreCompileInputs.cache
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.RazorAssemblyInfo.cache
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.RazorAssemblyInfo.cs
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\staticwebassets\EmployeePayrollMVC.StaticWebAssets.Manifest.cache
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.TagHelpers.input.cache
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.TagHelpers.output.cache
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.RazorCoreGenerate.cache
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
-C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
 C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.RazorTargetAssemblyInfo.cache
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.RazorTargetAssemblyInfo.cs
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.Views.pdb
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.csproj.CopyComplete
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.dll
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.pdb
+C:\Users\NITISH KUMAR\source\CFP\EmployeePayrollMVC\EmployeePayrollMVC\obj\Debug\netcoreapp3.1\EmployeePayrollMVC.genruntimeconfig.cache
