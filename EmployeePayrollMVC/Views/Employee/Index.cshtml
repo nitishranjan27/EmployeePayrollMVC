@@ -5,7 +5,7 @@
 }
 <div class="content-index">
 
-<h4>Index</h4>
+<h3>Index</h3>
 
 
     <a asp-action="Create" class="btn btn-primary">Add Employee</a>
@@ -53,7 +53,7 @@
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.profileImage)
+                <img src="@Url.Content(item.profileImage)" />
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Gender)
@@ -70,10 +70,10 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Note)
             </td>
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            <td class="index-botton">
+                @Html.ActionLink("Edit", "Edit", new {  id=item.EmployeeId  },new{@class="btn botton-shape-a"}) 
+                @Html.ActionLink("Details", "Details", new {  id=item.EmployeeId  },new{@class="btn botton-shape-b"}) 
+                @Html.ActionLink("Delete", "Delete", new {  id=item.EmployeeId  },new{@class="btn botton-shape-c"})
             </td>
         </tr>
 }

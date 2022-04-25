@@ -4,18 +4,6 @@
     ViewData["Title"] = "Create";
 }
 
-@*<header class="header-content header">
-    <div class="logo-content">
-    <img src="../assets/images/logo.png" alt="">
-    <div>
-    <span class="emp-text">EMPLOYEE</span><br>
-    <span class="emp-text emp-payroll">PAYROLL</span>
-    </div>
-    </div>
-    </header>*@
-
-
-@*<hr />*@
 <div class="form-content">
     <div class="form">
         <form asp-action="Create">
@@ -38,9 +26,9 @@
                 <span asp-validation-for="profileImage" class="text-danger"></span>
                 </div>*@
             <div class="form-group">
-                <label class="label text" for="profile">Profile Image</label>
+                <label class="control-label" asp-for="profileImage">Profile Image</label>
 
-                <div class="profile-radio-content">
+                <div class="profile-radio-content profile-control">
                     <label asp-for="profileImage" class="control-label">
                         <input type="radio" asp-for="profileImage" value="../assets/Profile-images/Ellipse -3.png">
                         <img class="profile" id='imagel' src="../assets/Profile-images/Ellipse -3.png">
